@@ -1,0 +1,201 @@
+Name,Age,Club,Overall,Potential,Position,Player Value
+Player 1,27.52777777777778,PSG,82,83,GK,71.01
+Player 2,37.0,PSG,88,93,RW,82.27
+Player 3,32.0,Man City,70,71,ST,12.01086956521739
+Player 4,28.0,Juventus,77,77,ST,85.94
+Player 5,25.0,Bayern Munich,71,76,No,108.06
+Player 6,27.52777777777778,Real Madrid,68,69,RW,75.27
+Player 7,24.0,Barcelona,69,73,ST,65.23
+Player 8,36.0,Free Agent,76,78,LW,53.21
+Player 9,28.0,Juventus,66,66,RW,69.72
+Player 10,28.0,PSG,72,73,ST,43.29
+Player 11,38.0,Man City,68,68,LW,47.59
+Player 12,21.0,Man City,86,86,CM,64.29
+Player 13,25.0,Real Madrid,61,66,ST,8.93
+Player 14,20.0,PSG,64,69,RW,28.25
+Player 15,39.0,Juventus,88,90,CB,65.6
+Player 16,38.0,Free Agent,78,82,No,37.506521739130434
+Player 17,19.0,PSG,67,67,CB,40.61
+Player 18,29.0,Real Madrid,60,61,LW,87.94
+Player 19,23.0,Real Madrid,81,84,CM,83.55
+Player 20,19.0,PSG,76,76,GK,20.84
+Player 21,38.0,Free Agent,66,66,CM,105.56
+Player 22,18.0,PSG,84,86,ST,59.96
+Player 23,29.0,Barcelona,63,67,CB,89.23
+Player 24,39.0,PSG,65,68,CB,69.2
+Player 25,29.0,PSG,90,95,RW,119.73
+Player 26,34.0,Free Agent,78,83,CB,90.54
+Player 27,27.0,Real Madrid,86,87,RW,85.13
+Player 28,27.52777777777778,Man City,69,72,LW,93.65
+Player 29,32.0,Man City,85,90,GK,18.03
+Player 30,32.0,Barcelona,78,79,ST,25.34
+Player 31,36.0,Man City,62,66,No,85.97
+Player 32,29.0,PSG,72,73,GK,22.209130434782608
+Player 33,37.0,Real Madrid,87,92,CB,90.8
+Player 34,20.0,Man City,79,81,No,13.25
+Player 35,22.0,Man City,87,89,GK,64.84
+Player 36,36.0,Barcelona,67,69,CB,2.45
+Player 37,24.0,Juventus,60,65,LW,55.38
+Player 38,27.52777777777778,Barcelona,62,64,LW,72.87
+Player 39,26.0,PSG,72,75,GK,60.77
+Player 40,24.0,Real Madrid,87,91,RW,65.24
+Player 41,35.0,Barcelona,84,85,RW,58.88
+Player 42,21.0,Man City,92,93,GK,49.67
+Player 43,31.0,Free Agent,65,70,RW,92.85
+Player 44,35.0,Real Madrid,91,93,RW,2.45
+Player 45,26.0,Man City,80,82,LW,72.21
+Player 46,38.0,Barcelona,75,75,RW,68.3
+Player 47,19.0,Man City,80,84,CM,86.23
+Player 48,37.0,Juventus,70,73,ST,72.28
+Player 49,32.0,Real Madrid,94,95,CB,99.39
+Player 50,24.0,Free Agent,78,78,CM,115.13
+Player 51,29.0,Bayern Munich,79,79,RW,41.76
+Player 52,25.0,PSG,77,82,LW,28.05
+Player 53,32.0,Man City,73,74,GK,51.41
+Player 54,20.0,Man City,74,79,RW,88.49782608695654
+Player 55,31.0,Free Agent,90,93,LW,74.18
+Player 56,34.0,PSG,60,60,ST,109.51
+Player 57,21.0,PSG,62,62,No,17.55
+Player 58,35.0,Real Madrid,75,79,GK,27.945652173913043
+Player 59,25.0,Juventus,82,85,LW,31.47
+Player 60,21.0,Man City,70,70,LW,87.41
+Player 61,19.0,Real Madrid,71,74,LW,71.56
+Player 62,23.0,PSG,69,70,ST,13.16
+Player 63,27.52777777777778,Man City,91,93,RW,110.33
+Player 64,27.0,Real Madrid,75,75,ST,95.02
+Player 65,21.0,Free Agent,67,71,CB,3.74
+Player 66,27.52777777777778,Real Madrid,71,72,CB,78.51
+Player 67,27.52777777777778,Juventus,83,86,RW,92.78
+Player 68,29.0,PSG,87,92,No,45.56
+Player 69,19.0,Juventus,67,68,GK,9.2
+Player 70,27.0,Man City,87,87,LW,10.2
+Player 71,21.0,PSG,85,88,LW,117.1804347826087
+Player 72,31.0,Man City,67,69,RW,2.45
+Player 73,33.0,Bayern Munich,87,88,CB,66.18913043478261
+Player 74,32.0,Barcelona,87,87,CB,15.61
+Player 75,25.0,Juventus,86,90,LW,94.87173913043478
+Player 76,31.0,Barcelona,76,81,RW,20.7
+Player 77,25.0,Barcelona,68,71,ST,23.17
+Player 78,27.52777777777778,Free Agent,92,93,CB,100.66
+Player 79,33.0,PSG,79,80,ST,40.53
+Player 80,30.0,Bayern Munich,72,74,CB,38.06
+Player 81,35.0,Man City,87,89,CB,28.06
+Player 82,32.0,Real Madrid,88,92,CM,73.34
+Player 83,38.0,Man City,72,77,CB,46.14
+Player 84,30.0,Real Madrid,94,98,GK,89.57
+Player 85,26.0,Free Agent,65,65,No,25.46
+Player 86,32.0,Juventus,77,77,RW,94.75
+Player 87,30.0,Bayern Munich,64,68,ST,72.84
+Player 88,18.0,Real Madrid,84,89,CB,14.6
+Player 89,24.0,PSG,61,65,GK,50.33
+Player 90,26.0,Man City,69,74,ST,34.31956521739131
+Player 91,18.0,Man City,89,94,CM,110.83
+Player 92,27.52777777777778,Real Madrid,64,67,ST,56.42
+Player 93,25.0,PSG,92,97,ST,58.22
+Player 94,28.0,PSG,60,62,CB,110.3
+Player 95,36.0,Juventus,77,82,CM,70.86
+Player 96,34.0,Juventus,91,96,ST,4.91
+Player 97,25.0,Juventus,70,75,GK,109.62
+Player 98,20.0,Juventus,80,80,No,30.54
+Player 99,20.0,Juventus,85,87,RW,69.74
+Player 100,18.0,Juventus,84,86,No,20.7
+Player 101,22.0,Bayern Munich,81,85,CM,5.03
+Player 102,27.0,PSG,86,89,RW,38.07
+Player 103,27.52777777777778,Juventus,72,77,ST,93.88
+Player 104,26.0,PSG,92,93,No,34.03
+Player 105,24.0,PSG,93,96,GK,27.19
+Player 106,26.0,Barcelona,94,97,GK,26.31
+Player 107,25.0,Bayern Munich,60,62,CB,62.31
+Player 108,29.0,Juventus,80,83,No,117.09
+Player 109,19.0,Man City,65,70,ST,55.62
+Player 110,18.0,Real Madrid,87,92,RW,67.32
+Player 111,33.0,Free Agent,76,76,RW,103.42
+Player 112,22.0,Bayern Munich,64,69,ST,64.67
+Player 113,20.0,Real Madrid,90,95,LW,22.95
+Player 114,29.0,Bayern Munich,64,66,CB,36.65
+Player 115,25.0,PSG,62,67,No,37.88
+Player 116,27.52777777777778,Real Madrid,82,82,CM,48.28
+Player 117,20.0,PSG,69,70,CB,51.79
+Player 118,27.52777777777778,Man City,69,71,CM,96.17
+Player 119,20.0,Man City,78,79,GK,42.58
+Player 120,22.0,Real Madrid,76,78,CB,56.72
+Player 121,27.52777777777778,Real Madrid,80,84,RW,75.37
+Player 122,31.0,Juventus,73,76,CB,45.95
+Player 123,20.0,Bayern Munich,68,72,CB,100.55
+Player 124,18.0,Juventus,60,65,CB,37.506521739130434
+Player 125,22.0,Bayern Munich,72,73,LW,35.99
+Player 126,31.0,Juventus,63,68,CB,85.97
+Player 127,27.52777777777778,Free Agent,60,63,CM,63.79
+Player 128,26.0,Real Madrid,91,93,GK,64.6
+Player 129,32.0,Man City,93,96,ST,85.3108695652174
+Player 130,32.0,Bayern Munich,87,87,CB,60.14
+Player 131,27.0,Bayern Munich,90,93,RW,92.08
+Player 132,30.0,Man City,67,67,CB,13.25
+Player 133,36.0,Juventus,85,88,RW,40.79
+Player 134,24.0,Bayern Munich,93,93,CM,119.73
+Player 135,34.0,PSG,62,63,RW,90.64
+Player 136,37.0,Free Agent,71,76,ST,33.4
+Player 137,21.0,Man City,60,65,GK,107.79
+Player 138,22.0,Real Madrid,64,68,RW,43.8804347826087
+Player 139,24.0,Bayern Munich,89,94,RW,96.29
+Player 140,30.0,Bayern Munich,89,91,GK,117.49
+Player 141,32.0,Man City,76,79,ST,100.93
+Player 142,27.52777777777778,PSG,82,86,CB,104.17
+Player 143,27.52777777777778,Free Agent,74,76,RW,49.55
+Player 144,30.0,Man City,80,82,GK,66.65
+Player 145,24.0,Barcelona,73,73,CM,31.21
+Player 146,36.0,Free Agent,61,66,GK,24.34
+Player 147,39.0,Barcelona,70,71,CM,61.16
+Player 148,19.0,PSG,93,94,No,71.81
+Player 149,27.0,Juventus,93,97,CB,41.37
+Player 150,30.0,Barcelona,77,78,No,68.76
+Player 151,38.0,Juventus,89,92,No,106.61
+Player 152,23.0,Barcelona,74,75,RW,67.25
+Player 153,29.0,PSG,86,90,ST,69.37608695652175
+Player 154,29.0,Barcelona,93,94,No,96.83
+Player 155,27.52777777777778,Barcelona,92,95,RW,118.66
+Player 156,28.0,Free Agent,83,83,GK,72.78
+Player 157,24.0,Man City,74,78,CM,97.02
+Player 158,27.52777777777778,Man City,89,89,GK,115.56
+Player 159,18.0,Man City,76,76,LW,113.38
+Player 160,37.0,PSG,64,64,GK,17.79
+Player 161,30.0,Juventus,88,90,GK,49.36
+Player 162,26.0,Bayern Munich,63,68,LW,15.197826086956521
+Player 163,20.0,Barcelona,69,71,ST,11.34
+Player 164,24.0,Free Agent,76,81,GK,76.36
+Player 165,23.0,PSG,69,69,LW,88.57
+Player 166,25.0,Barcelona,76,80,RW,101.93
+Player 167,26.0,Man City,79,84,CM,15.61
+Player 168,22.0,Bayern Munich,83,86,CM,105.3
+Player 169,18.0,Real Madrid,64,67,GK,77.51
+Player 170,36.0,Barcelona,93,94,ST,84.77
+Player 171,27.0,Man City,65,70,ST,109.36
+Player 172,29.0,Real Madrid,61,65,RW,75.35
+Player 173,27.52777777777778,Free Agent,72,74,GK,40.97
+Player 174,39.0,Real Madrid,70,70,CM,99.19
+Player 175,26.0,Man City,82,83,ST,44.2
+Player 176,37.0,Juventus,75,78,GK,5.07
+Player 177,34.0,Juventus,90,92,No,75.75
+Player 178,34.0,Real Madrid,70,72,LW,12.01086956521739
+Player 179,37.0,PSG,75,75,ST,93.09
+Player 180,27.52777777777778,Real Madrid,67,72,CM,44.17
+Player 181,24.0,Barcelona,63,66,No,103.47
+Player 182,19.0,Barcelona,63,67,RW,27.12
+Player 183,20.0,Free Agent,84,86,RW,116.97
+Player 184,34.0,PSG,62,62,CM,93.79
+Player 185,22.0,Man City,91,95,ST,14.59
+Player 186,34.0,Barcelona,62,67,GK,68.33
+Player 187,34.0,Juventus,86,89,ST,118.26
+Player 188,34.0,Bayern Munich,88,93,CM,57.06
+Player 189,19.0,Juventus,91,93,RW,22.67
+Player 190,19.0,Barcelona,78,82,ST,58.69
+Player 191,39.0,Free Agent,80,84,RW,61.98
+Player 192,22.0,Juventus,64,68,GK,89.26
+Player 193,18.0,Man City,77,79,RW,84.16
+Player 194,18.0,Real Madrid,87,89,RW,48.9
+Player 195,36.0,Barcelona,81,86,No,26.94
+Player 196,19.0,Juventus,80,81,CB,96.46521739130435
+Player 197,38.0,Juventus,65,70,LW,51.18
+Player 198,29.0,PSG,60,63,CB,16.74
+Player 199,23.0,Real Madrid,64,64,No,108.17
+Player 200,21.0,Bayern Munich,71,75,CM,83.26
